@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'ocean1'
+puts Ocean1.current_weekday
+puts "Hello ocean1 =="
